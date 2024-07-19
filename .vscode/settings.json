@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./RNN",
+        "ResNet50",
+        "CNN",
+        "Captcha_GEN",
+        "App"
+    ]
+}
