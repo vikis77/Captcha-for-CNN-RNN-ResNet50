@@ -12,5 +12,5 @@ dist
 build
 
 CNN/model_1004-1.6.pth
-RNN/ctc3-1.5.pth
-ResNet50/ResNet_mytrain_weigthts.pth
+# RNN/ctc3-1.5.pth
+# ResNet50/ResNet_mytrain_weigthts.pth
